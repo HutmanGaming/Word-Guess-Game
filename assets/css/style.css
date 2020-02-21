@@ -1,0 +1,28 @@
+.float-right {
+    background-color: lightgoldenrodyellow;
+    width: 250px;
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid black;
+}
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+}
+#head {
+    background-color: lightgray;
+    width: 400px;
+    padding: 10px;
+    margin: 20px;
+    text-align-last: center; 
+    border: 2px solid black; 
+}
+#headtext {
+    background-color: lightgray;
+    width: 1000px;
+    padding: 10px;
+    margin: 20px;
+    text-align-last: center; 
+    border: 2px solid black; 
+}
